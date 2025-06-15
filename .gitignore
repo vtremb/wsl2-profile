@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# Except not these files
+!.gitignore
+!.zshrc
+!.bashrc
+!.aws
+!install.sh
